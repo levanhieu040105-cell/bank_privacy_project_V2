@@ -1,0 +1,4 @@
+﻿Ky_thuat_bao_mat,Muc_do_chong_chiu,Ly_giai_khoa_hoc
+Token hóa (Tokenization),Xuất sắc,"Các trường PII gốc được thay thế bằng các token ngẫu nhiên (TOKEN_xxxxxxxx). Bản đồ ánh xạ được lưu trong tệp JSON mã hóa tách biệt hoàn toàn với dữ liệu huấn luyện, chỉ có thể khôi phục qua tài khoản kiểm toán được ủy quyền."
+Băm bảo mật (Hashing),Xuất sắc,"Các mã định danh (ID) được xử lý bằng thuật toán SHA-256 kèm chuỗi muối (salt) 32 ký tự có độ phức tạp cao, chống tấn công từ điển và tấn công vét cạn. Tỷ lệ tái định danh (RSR) đạt mức tối thiểu (< 0.01)."
+Nhiễu Gaussian (Gaussian Noise),Mạnh,"Nhiễu ngẫu nhiên phân phối chuẩn (scale = 0.01) được thêm vào các thuộc tính tài chính liên tục (số dư, lãi suất hàng tháng). Điều này phá vỡ các ranh giới quyết định chính xác, làm giảm hiệu quả tấn công suy luận thuộc tính của Transformer."

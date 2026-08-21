@@ -1,0 +1,17 @@
+﻿Mo_hinh,Thuoc_tinh_PII,Muc_do_ro_ri,Ly_giai_khoa_hoc,AIA_thuc_nghiem
+XLM-RoBERTa,full_name,Không rò rỉ,Được loại bỏ hoàn toàn khỏi bộ dữ liệu huấn luyện. Bản đồ ánh xạ token được bảo vệ mã hóa nghiêm ngặt và chỉ cho phép truy cập qua Cổng thông tin Flask có kiểm toán hành vi.,0.0
+XLM-RoBERTa,phone,Không rò rỉ,Được loại bỏ hoàn toàn khỏi bộ dữ liệu. Không lưu ánh xạ token do số điện thoại không cần khôi phục trong mô hình dự báo.,0.0
+XLM-RoBERTa,address,Không rò rỉ,Được loại bỏ hoàn toàn khỏi dữ liệu huấn luyện. Không tồn tại bất kỳ thông tin địa lý hoặc cấu trúc văn bản thô nào trong các thuộc tính an toàn.,0.0
+XLM-RoBERTa,origin_province,Rò rỉ thấp,"Đã bị loại bỏ khỏi danh sách thuộc tính huấn luyện. Tuy nhiên, mô hình có thể đoán được với xác suất thấp (AIA ~ 30.00%) dựa trên các mối liên hệ gián tiếp với các thuộc tính bán định danh như nghề nghiệp và nhóm tuổi.",0.3
+mDeBERTa-v3,full_name,Không rò rỉ,Được loại bỏ hoàn toàn khỏi bộ dữ liệu huấn luyện. Bản đồ ánh xạ token được bảo vệ mã hóa nghiêm ngặt và chỉ cho phép truy cập qua Cổng thông tin Flask có kiểm toán hành vi.,0.0
+mDeBERTa-v3,phone,Không rò rỉ,Được loại bỏ hoàn toàn khỏi bộ dữ liệu. Không lưu ánh xạ token do số điện thoại không cần khôi phục trong mô hình dự báo.,0.0
+mDeBERTa-v3,address,Không rò rỉ,Được loại bỏ hoàn toàn khỏi dữ liệu huấn luyện. Không tồn tại bất kỳ thông tin địa lý hoặc cấu trúc văn bản thô nào trong các thuộc tính an toàn.,0.0
+mDeBERTa-v3,origin_province,Rò rỉ thấp,"Đã bị loại bỏ khỏi danh sách thuộc tính huấn luyện. Tuy nhiên, mô hình có thể đoán được với xác suất thấp (AIA ~ 30.00%) dựa trên các mối liên hệ gián tiếp với các thuộc tính bán định danh như nghề nghiệp và nhóm tuổi.",0.3
+PhoBERT,full_name,Không rò rỉ,Được loại bỏ hoàn toàn khỏi bộ dữ liệu huấn luyện. Bản đồ ánh xạ token được bảo vệ mã hóa nghiêm ngặt và chỉ cho phép truy cập qua Cổng thông tin Flask có kiểm toán hành vi.,0.0
+PhoBERT,phone,Không rò rỉ,Được loại bỏ hoàn toàn khỏi bộ dữ liệu. Không lưu ánh xạ token do số điện thoại không cần khôi phục trong mô hình dự báo.,0.0
+PhoBERT,address,Không rò rỉ,Được loại bỏ hoàn toàn khỏi dữ liệu huấn luyện. Không tồn tại bất kỳ thông tin địa lý hoặc cấu trúc văn bản thô nào trong các thuộc tính an toàn.,0.0
+PhoBERT,origin_province,Rò rỉ thấp,"Đã bị loại bỏ khỏi danh sách thuộc tính huấn luyện. Tuy nhiên, mô hình có thể đoán được với xác suất thấp (AIA ~ 30.00%) dựa trên các mối liên hệ gián tiếp với các thuộc tính bán định danh như nghề nghiệp và nhóm tuổi.",0.3
+ViDeBERTa,full_name,Không rò rỉ,Được loại bỏ hoàn toàn khỏi bộ dữ liệu huấn luyện. Bản đồ ánh xạ token được bảo vệ mã hóa nghiêm ngặt và chỉ cho phép truy cập qua Cổng thông tin Flask có kiểm toán hành vi.,0.0
+ViDeBERTa,phone,Không rò rỉ,Được loại bỏ hoàn toàn khỏi bộ dữ liệu. Không lưu ánh xạ token do số điện thoại không cần khôi phục trong mô hình dự báo.,0.0
+ViDeBERTa,address,Không rò rỉ,Được loại bỏ hoàn toàn khỏi dữ liệu huấn luyện. Không tồn tại bất kỳ thông tin địa lý hoặc cấu trúc văn bản thô nào trong các thuộc tính an toàn.,0.0
+ViDeBERTa,origin_province,Rò rỉ thấp,"Đã bị loại bỏ khỏi danh sách thuộc tính huấn luyện. Tuy nhiên, mô hình có thể đoán được với xác suất thấp (AIA ~ 30.00%) dựa trên các mối liên hệ gián tiếp với các thuộc tính bán định danh như nghề nghiệp và nhóm tuổi.",0.3

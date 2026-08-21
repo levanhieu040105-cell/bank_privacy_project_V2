@@ -1,0 +1,5 @@
+﻿Mo_hinh,Kien_truc,Tham_so,Thoi_gian_suy_luan,Bo_nho_su_dung,Precision,Recall,F1_score,ROC_AUC,RSR,PLR,AIA,PRS
+XLM-RoBERTa,RoBERTa (Đa ngôn ngữ),270M,72.4 ms,890 MB,0.053,0.1056,0.0705,0.5094,0.0749,0.2,0.3,0.82
+mDeBERTa-v3,DeBERTa-v3 (Đa ngôn ngữ),276M,85.1 ms,940 MB,0.0569,0.1133,0.0757,0.547,0.0855,0.2,0.3,0.8158
+PhoBERT,RoBERTa (Đơn ngữ Tiếng Việt),135M,45.2 ms,520 MB,0.0602,0.12,0.0802,0.5792,0.0912,0.2,0.3,0.8135
+ViDeBERTa,DeBERTa-v3 (Đơn ngữ Tiếng Việt),140M,58.7 ms,580 MB,0.0641,0.1278,0.0854,0.6167,0.1,0.2,0.3,0.81

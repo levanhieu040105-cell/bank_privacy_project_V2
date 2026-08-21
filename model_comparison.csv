@@ -1,0 +1,5 @@
+﻿Mo_hinh,Precision,Recall,F1,RSR,PLR,PRS,Muc_do_rui_ro_chung
+XLM-RoBERTa,0.053,0.1056,0.0705,0.0749,0.2,0.82,Trung bình
+mDeBERTa-v3,0.0569,0.1133,0.0757,0.0855,0.2,0.8158,Trung bình
+PhoBERT,0.0602,0.12,0.0802,0.0912,0.2,0.8135,Trung bình
+ViDeBERTa,0.0641,0.1278,0.0854,0.1,0.2,0.81,Trung bình
